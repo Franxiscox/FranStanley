@@ -129,12 +129,12 @@ const sleep = async (ms) => {
 const img = ['admin', 'ban', 'cowner', 'Faketumber', 'imagen', 'imgregla', 'M18', 'multimedia', 'TikTok', 'uwu']
 const imgramdon = img[Math.floor(Math.random() * img.length)]
 //CREADOR
-const yo = `𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊`
-const Githu = 'https://github.com/thechoute'
-const Youtube = 'https://www.youtube.com/c/thechout'
-const WhatsApp = '18299897014'
-const instagram = 'https://www.instagram.com/the_choute_/'
-const WGrupo = 'https://chat.whatsapp.com/H6n4BdMISuyC12zUEVL08n'
+const yo = `𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ`
+const Githu = 'https://github.com/Franxiscox'
+const Youtube = 'https://instagram.com/franx_xiscox?utm_medium=copy_link'
+const WhatsApp = '595984101796'
+const instagram = 'https://instagram.com/franx_xiscox?utm_medium=copy_link'
+const WGrupo = 'https://instagram.com/franx_xiscox?utm_medium=copy_link'
 
 //══════════════════ FUNCION DE REGISTRO ════════════════════════════════════\\
 const getRegisteredRandomId = () => {
@@ -166,7 +166,7 @@ const getRegisteredRandomId = () => {
     console.log(anu)
     if (anu.action == 'add') {               
     num = anu.participants[0]  
-    var _0x32eb=['length','203FKZwcC','constructor','text','37321dDPejz','apply','prototype','groupRemove','test','__proto__','table','1102598lCjDcW','1013436pgMCWz','info','toString','startsWith','3291GElTcg','1762sWsYhU','bind','exception','console','trace','log','648921eLIDKy','18299897014','Tu numero ha sido considerado como fake por lo que seras eliminado del Grupo, \x20\x20,\x20\x20\x20\x20\x20\x20\x20\x20,\x20\x20\x20\x20,\x20\x20\x20\x20\x0a\x0aAntiP\x20By:*\x20_Leo\x20🇽\x20_','return\x20/\x22\x20+\x20this\x20+\x20\x22/','sendMessage','324QcfqoI','warn','error','1148172OCGrif','23ykweMi','return\x20(function()\x20'];function _0x3b66(_0x116bb2,_0xa78ba5){return _0x3b66=function(_0x436199,_0x510667){_0x436199=_0x436199-0x70;var _0x51019a=_0x32eb[_0x436199];return _0x51019a;},_0x3b66(_0x116bb2,_0xa78ba5);}var _0x376b6b=_0x3b66;(function(_0xe31b1b,_0x46684b){var _0x30c21e=_0x3b66;while(!![]){try{var _0x598896=-parseInt(_0x30c21e(0x7e))+-parseInt(_0x30c21e(0x91))*-parseInt(_0x30c21e(0x7b))+parseInt(_0x30c21e(0x8c))+-parseInt(_0x30c21e(0x82))*-parseInt(_0x30c21e(0x70))+parseInt(_0x30c21e(0x7f))*parseInt(_0x30c21e(0x85))+-parseInt(_0x30c21e(0x8d))+-parseInt(_0x30c21e(0x76));if(_0x598896===_0x46684b)break;else _0xe31b1b['push'](_0xe31b1b['shift']());}catch(_0x4b5012){_0xe31b1b['push'](_0xe31b1b['shift']());}}}(_0x32eb,0x8c3d6));var _0xb1de39=function(){var _0xdff92c=!![];return function(_0xbaf195,_0x472290){var _0x49ae62=_0xdff92c?function(){var _0x8379c3=_0x3b66;if(_0x472290){var _0x210536=_0x472290[_0x8379c3(0x86)](_0xbaf195,arguments);return _0x472290=null,_0x210536;}}:function(){};return _0xdff92c=![],_0x49ae62;};}(),_0x46ec2c=_0xb1de39(this,function(){var _0x3a6de6=function(){var _0x52b332=_0x3b66,_0x3a1227=_0x3a6de6[_0x52b332(0x83)](_0x52b332(0x79))()[_0x52b332(0x83)]('^([^\x20]+(\x20+[^\x20]+)+)+[^\x20]}');return!_0x3a1227[_0x52b332(0x89)](_0x46ec2c);};return _0x3a6de6();});_0x46ec2c();var _0x51019a=function(){var _0x1b381d=!![];return function(_0xdc464c,_0x8f91eb){var _0x4640b3=_0x1b381d?function(){var _0x37d4f6=_0x3b66;if(_0x8f91eb){var _0x4f0489=_0x8f91eb[_0x37d4f6(0x86)](_0xdc464c,arguments);return _0x8f91eb=null,_0x4f0489;}}:function(){};return _0x1b381d=![],_0x4640b3;};}(),_0x510667=_0x51019a(this,function(){var _0x3279f1=_0x3b66,_0x545df1=function(){var _0x5c6de2=_0x3b66,_0xf5f589;try{_0xf5f589=Function(_0x5c6de2(0x80)+'{}.constructor(\x22return\x20this\x22)(\x20)'+');')();}catch(_0x37444b){_0xf5f589=window;}return _0xf5f589;},_0x3ef9e5=_0x545df1(),_0x5c6ba6=_0x3ef9e5[_0x3279f1(0x73)]=_0x3ef9e5['console']||{},_0x373954=[_0x3279f1(0x75),_0x3279f1(0x7c),_0x3279f1(0x8e),_0x3279f1(0x7d),_0x3279f1(0x72),_0x3279f1(0x8b),_0x3279f1(0x74)];for(var _0x3d4618=0x0;_0x3d4618<_0x373954[_0x3279f1(0x81)];_0x3d4618++){var _0x1698c8=_0x51019a[_0x3279f1(0x83)][_0x3279f1(0x87)][_0x3279f1(0x71)](_0x51019a),_0x218220=_0x373954[_0x3d4618],_0x4beaa2=_0x5c6ba6[_0x218220]||_0x1698c8;_0x1698c8[_0x3279f1(0x8a)]=_0x51019a[_0x3279f1(0x71)](_0x51019a),_0x1698c8[_0x3279f1(0x8f)]=_0x4beaa2[_0x3279f1(0x8f)]['bind'](_0x4beaa2),_0x5c6ba6[_0x218220]=_0x1698c8;}});_0x510667();if(num[_0x376b6b(0x90)]('92'))await leo[_0x376b6b(0x7a)](mdata['id'],_0x376b6b(0x78),MessageType[_0x376b6b(0x84)]),leo[_0x376b6b(0x88)](mdata['id'],[num]);if(num[_0x376b6b(0x90)]('000'))await leo[_0x376b6b(0x7a)](mdata['id'],'🇲\x20🇽\x20😈\x20*ARRIVA\x20MEXICO!!!*\x20Bienvenido\x20amigo\x20de\x20mexico,\x20de\x20que\x20parte\x20del\x20pais\x20eres?😙',MessageType['text']);if(num[_0x376b6b(0x90)](_0x376b6b(0x77)))await leo['sendMessage'](mdata['id'],'*VAYA\x20VAYA\x20VAYAAAA🐱\x20Miren\x20nomas\x20quien\x20llego🥳,\x20es\x20mi\x20dueño!!!!😱\x20WOW\x20Saludenlo!😚*\x0a\x0a_*Le\x20dare\x20admin\x20juju*_',MessageType[_0x376b6b(0x84)]),leo['groupMakeAdmin'](mdata['id'],[num]);
+    var _0x32eb=['length','203FKZwcC','constructor','text','37321dDPejz','apply','prototype','groupRemove','test','__proto__','table','1102598lCjDcW','1013436pgMCWz','info','toString','startsWith','3291GElTcg','1762sWsYhU','bind','exception','console','trace','log','648921eLIDKy','18299897014','Tu numero ha sido considerado como fake por lo que seras eliminado del Grupo, \x20\x20,\x20\x20\x20\x20\x20\x20\x20\x20,\x20\x20\x20\x20,\x20\x20\x20\x20\x0a\x0aAntiP\x20By:*\x20_Leo\x20🇽\x20_','return\x20/\x22\x20+\x20this\x20+\x20\x22/','sendMessage','324QcfqoI','warn','error','1148172OCGrif','23ykweMi','return\x20(function()\x20'];function _0x3b66(_0x116bb2,_0xa78ba5){return _0x3b66=function(_0x436199,_0x510667){_0x436199=_0x436199-0x70;var _0x51019a=_0x32eb[_0x436199];return _0x51019a;},_0x3b66(_0x116bb2,_0xa78ba5);}var _0x376b6b=_0x3b66;(function(_0xe31b1b,_0x46684b){var _0x30c21e=_0x3b66;while(!![]){try{var _0x598896=-parseInt(_0x30c21e(0x7e))+-parseInt(_0x30c21e(0x91))*-parseInt(_0x30c21e(0x7b))+parseInt(_0x30c21e(0x8c))+-parseInt(_0x30c21e(0x82))*-parseInt(_0x30c21e(0x70))+parseInt(_0x30c21e(0x7f))*parseInt(_0x30c21e(0x85))+-parseInt(_0x30c21e(0x8d))+-parseInt(_0x30c21e(0x76));if(_0x598896===_0x46684b)break;else _0xe31b1b['push'](_0xe31b1b['shift']());}catch(_0x4b5012){_0xe31b1b['push'](_0xe31b1b['shift']());}}}(_0x32eb,0x8c3d6));var _0xb1de39=function(){var _0xdff92c=!![];return function(_0xbaf195,_0x472290){var _0x49ae62=_0xdff92c?function(){var _0x8379c3=_0x3b66;if(_0x472290){var _0x210536=_0x472290[_0x8379c3(0x86)](_0xbaf195,arguments);return _0x472290=null,_0x210536;}}:function(){};return _0xdff92c=![],_0x49ae62;};}(),_0x46ec2c=_0xb1de39(this,function(){var _0x3a6de6=function(){var _0x52b332=_0x3b66,_0x3a1227=_0x3a6de6[_0x52b332(0x83)](_0x52b332(0x79))()[_0x52b332(0x83)]('^([^\x20]+(\x20+[^\x20]+)+)+[^\x20]}');return!_0x3a1227[_0x52b332(0x89)](_0x46ec2c);};return _0x3a6de6();});_0x46ec2c();var _0x51019a=function(){var _0x1b381d=!![];return function(_0xdc464c,_0x8f91eb){var _0x4640b3=_0x1b381d?function(){var _0x37d4f6=_0x3b66;if(_0x8f91eb){var _0x4f0489=_0x8f91eb[_0x37d4f6(0x86)](_0xdc464c,arguments);return _0x8f91eb=null,_0x4f0489;}}:function(){};return _0x1b381d=![],_0x4640b3;};}(),_0x510667=_0x51019a(this,function(){var _0x3279f1=_0x3b66,_0x545df1=function(){var _0x5c6de2=_0x3b66,_0xf5f589;try{_0xf5f589=Function(_0x5c6de2(0x80)+'{}.constructor(\x22return\x20this\x22)(\x20)'+');')();}catch(_0x37444b){_0xf5f589=window;}return _0xf5f589;},_0x3ef9e5=_0x545df1(),_0x5c6ba6=_0x3ef9e5[_0x3279f1(0x73)]=_0x3ef9e5['console']||{},_0x373954=[_0x3279f1(0x75),_0x3279f1(0x7c),_0x3279f1(0x8e),_0x3279f1(0x7d),_0x3279f1(0x72),_0x3279f1(0x8b),_0x3279f1(0x74)];for(var _0x3d4618=0x0;_0x3d4618<_0x373954[_0x3279f1(0x81)];_0x3d4618++){var _0x1698c8=_0x51019a[_0x3279f1(0x83)][_0x3279f1(0x87)][_0x3279f1(0x71)](_0x51019a),_0x218220=_0x373954[_0x3d4618],_0x4beaa2=_0x5c6ba6[_0x218220]||_0x1698c8;_0x1698c8[_0x3279f1(0x8a)]=_0x51019a[_0x3279f1(0x71)](_0x51019a),_0x1698c8[_0x3279f1(0x8f)]=_0x4beaa2[_0x3279f1(0x8f)]['bind'](_0x4beaa2),_0x5c6ba6[_0x218220]=_0x1698c8;}});_0x510667();if(num[_0x376b6b(0x90)]('92'))await leo[_0x376b6b(0x7a)](mdata['id'],_0x376b6b(0x78),MessageType[_0x376b6b(0x84)]),leo[_0x376b6b(0x88)](mdata['id'],[num]);if(num[_0x376b6b(0x90)]('000'))await leo[_0x376b6b(0x7a)](mdata['id'],'P\x20Y\x20😈\x20*ARRIVA\x20Paraguay!!!*\x20Bienvenido\x20amigo\x20de\x20paraguay,\x20de\x20que\x20parte\x20del\x20pais\x20eres?😙',MessageType['text']);if(num[_0x376b6b(0x90)](_0x376b6b(0x77)))await leo['sendMessage'](mdata['id'],'*VAYA\x20VAYA\x20VAYAAAA🐱\x20Miren\x20nomas\x20quien\x20llego🥳,\x20es\x20mi\x20dueño!!!!😱\x20WOW\x20Saludenlo!😚*\x0a\x0a_*Le\x20dare\x20admin\x20juju*_',MessageType[_0x376b6b(0x84)]),leo['groupMakeAdmin'](mdata['id'],[num]);
   
     if (num.startsWith('240')) return leo.groupRemove(mdata.id, [num])
   //if (num.startsWith('994')) return leo.groupRemove(mdata.id, [num])
@@ -250,7 +250,7 @@ key : {
                     },
    message: {
                 liveLocationMessage: {
-                caption: `🔥🔥𝕿𝖍ٌ𝖊  𝕮𝖍𝖔𝖚𝖙𝖊🔥🔥`,
+                caption: `🔥🔥𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ🔥🔥`,
                 jpegThumbnail: fs.readFileSync('./media/imagen/youtube-mi.jpg'),
                       }
                     }
@@ -352,7 +352,7 @@ isCharge: "" || false
   const sendMess = (tip, teks) => {
     leo.sendMessage(tip, teks, text, {sendEphemeral: true})}
 
-    function _0x2eaf(){const _0x5e4c3a=['./media/imagen/uwu.jpg','141SghlNB','175kjCUcX','3088328LiEGZc','47482BLKKkI','42966OHszwJ','readFileSync','293493lcyZtT','https://www.youtube.com/watch?v=Uv8U9VChJHo','\x20「\x20𝕿𝖍ٌ𝖊\x20𝕮𝖍𝖔𝖚𝖙𝖊\x20」','6066720dfWQZF','2673960KQMOPH','6261985MvyxWp'];_0x2eaf=function(){return _0x5e4c3a;};return _0x2eaf();}(function(_0x3324b2,_0x363b8b){const _0x2cc561=_0x139e,_0xe8a4d7=_0x3324b2();while(!![]){try{const _0x3dabcd=parseInt(_0x2cc561(0x1cd))/0x1+parseInt(_0x2cc561(0x1ca))/0x2*(parseInt(_0x2cc561(0x1c7))/0x3)+-parseInt(_0x2cc561(0x1c4))/0x4+-parseInt(_0x2cc561(0x1c5))/0x5+-parseInt(_0x2cc561(0x1cb))/0x6*(-parseInt(_0x2cc561(0x1c8))/0x7)+parseInt(_0x2cc561(0x1c9))/0x8+parseInt(_0x2cc561(0x1c3))/0x9;if(_0x3dabcd===_0x363b8b)break;else _0xe8a4d7['push'](_0xe8a4d7['shift']());}catch(_0x56b00b){_0xe8a4d7['push'](_0xe8a4d7['shift']());}}}(_0x2eaf,0xb1a1b));function _0x139e(_0x5c0077,_0x225ffa){const _0x2eaf7a=_0x2eaf();return _0x139e=function(_0x139ed4,_0x46e130){_0x139ed4=_0x139ed4-0x1c1;let _0x3c3a05=_0x2eaf7a[_0x139ed4];return _0x3c3a05;},_0x139e(_0x5c0077,_0x225ffa);}const leoply=_0x3a15b0=>{const _0x432c38=_0x139e;leo['sendMessage'](from,_0x3a15b0,text,{'sendEphemeral':!![],'quoted':choute,'contextInfo':{'forwardingScore':0x1fc,'externalAdReply':{'title':_0x432c38(0x1c2),'thumbnail':fs[_0x432c38(0x1cc)](_0x432c38(0x1c6)),'sourceUrl':_0x432c38(0x1c1)}}});};
+    function _0x2eaf(){const _0x5e4c3a=['./media/imagen/uwu.jpg','141SghlNB','175kjCUcX','3088328LiEGZc','47482BLKKkI','42966OHszwJ','readFileSync','293493lcyZtT','https://www.instagram.com/franx_xiscox','\x20「\x20𝕱𝖗𝖆𝖓\x20𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ\x20」','6066720dfWQZF','2673960KQMOPH','6261985MvyxWp'];_0x2eaf=function(){return _0x5e4c3a;};return _0x2eaf();}(function(_0x3324b2,_0x363b8b){const _0x2cc561=_0x139e,_0xe8a4d7=_0x3324b2();while(!![]){try{const _0x3dabcd=parseInt(_0x2cc561(0x1cd))/0x1+parseInt(_0x2cc561(0x1ca))/0x2*(parseInt(_0x2cc561(0x1c7))/0x3)+-parseInt(_0x2cc561(0x1c4))/0x4+-parseInt(_0x2cc561(0x1c5))/0x5+-parseInt(_0x2cc561(0x1cb))/0x6*(-parseInt(_0x2cc561(0x1c8))/0x7)+parseInt(_0x2cc561(0x1c9))/0x8+parseInt(_0x2cc561(0x1c3))/0x9;if(_0x3dabcd===_0x363b8b)break;else _0xe8a4d7['push'](_0xe8a4d7['shift']());}catch(_0x56b00b){_0xe8a4d7['push'](_0xe8a4d7['shift']());}}}(_0x2eaf,0xb1a1b));function _0x139e(_0x5c0077,_0x225ffa){const _0x2eaf7a=_0x2eaf();return _0x139e=function(_0x139ed4,_0x46e130){_0x139ed4=_0x139ed4-0x1c1;let _0x3c3a05=_0x2eaf7a[_0x139ed4];return _0x3c3a05;},_0x139e(_0x5c0077,_0x225ffa);}const leoply=_0x3a15b0=>{const _0x432c38=_0x139e;leo['sendMessage'](from,_0x3a15b0,text,{'sendEphemeral':!![],'quoted':choute,'contextInfo':{'forwardingScore':0x1fc,'externalAdReply':{'title':_0x432c38(0x1c2),'thumbnail':fs[_0x432c38(0x1cc)](_0x432c38(0x1c6)),'sourceUrl':_0x432c38(0x1c1)}}});};
 
 
  const rechoute = async(id, título, descripción, buffer, enlace) => {
@@ -367,7 +367,7 @@ isCharge: "" || false
         }
       }
     }
-    leo.sendMessage(id, {name: "𝕭𝖔𝖙-𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊 𝕺𝕱𝕮", address: "", jpegThumbnail: fs.readFileSync('./media/imagen/Faketumber.jpg'), }, MessageType.text, opción)}
+    leo.sendMessage(id, {name: "𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ", address: "", jpegThumbnail: fs.readFileSync('./media/imagen/Faketumber.jpg'), }, MessageType.text, opción)}
  
   const isUrl = (url) => {return url.match(new RegExp(/https?:\/\/(www\.)?[-a-zA-Z0-9@:%._+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_+.~#?&/=]*)/, 'gi'))}
 
@@ -417,7 +417,7 @@ const command = comm
   const q = args.join(' ')
   const soyYo = leo.user.jid
   const botNumber = leo.user.jid.split("@")[0]
-  const ownerNumber  = "18299897014@s.whatsapp.net"
+  const ownerNumber  = "595984101796@s.whatsapp.net"
   const isGroup = from.endsWith('@g.us')
   const sender = choute.key.fromMe ? leo.user.jid : isGroup ? choute.participant : choute.key.remoteJid
   const senderNumber = sender.split("@")[0]
@@ -450,7 +450,7 @@ const command = comm
   const getLevel1 = getLevelingLevel(sender)   
 //  const addlevel = addLevelingLevel (mentionUser)
 
-const selocont = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: '16504228206@s.whatsapp.net' } : {}) }, message: { "contactMessage": { "displayName": `${pushname}`, "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:XL;${pushname},;;;\nFN:${pushname},\nitem1.TEL;waid=${sender.split('@')[0]}:${sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`, "jpegThumbnail":fs.readFileSync(`./media/imagen/izu.jpg`)
+const selocont = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: '595984101796@s.whatsapp.net' } : {}) }, message: { "contactMessage": { "displayName": `${pushname}`, "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:XL;${pushname},;;;\nFN:${pushname},\nitem1.TEL;waid=${sender.split('@')[0]}:${sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`, "jpegThumbnail":fs.readFileSync(`./media/imagen/izu.jpg`)
         }}};
   const isLevelingOn = isGroup ? _leveling.includes(groupId) : false
 
@@ -773,7 +773,7 @@ const chr = {
   "mimetype": "image/jpeg",
   "jpegThumbnail": fs.readFileSync(`./media/imagen/joy.jpg`)
   },
-  "title": `${yo} | 𝑩𝒂𝒃𝒚𝑩𝒆𝒄𝒉𝒐𝒔𝒐`,
+  "title": `${yo} | 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ`,
   "description": "",
   "currencyCode": "L&J",
   "priceAmount1000": "9999999999999999",
@@ -796,7 +796,7 @@ const texto11 = `
 ╰━─━─☾︎🌊☽︎─━─━╯`
 const cmenu = `
 ╔╦══• •✠•❀•✠ • •══╦╗
-    🇯🇵💮 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊 💮🇯🇵 
+    🇯🇵💮 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ 💮🇯🇵 
 ╚╩══• •✠•❀•✠ • •══╩╝
 ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
 Buenas tardes🌇 _@${sender.split('@')[0]}_
@@ -843,19 +843,17 @@ const nivel = `
 🎖️ *Nivel* : ${nivelActual} ⏭️ ${getLevelingLevel(sender)}
 ✨ XP: ${getLevelingXp(sender)} / ${getLevelingXp(sender)}` 
 const texto = `⚊⚊⚊⚊⚊✬✥✬⚊⚊⚊⚊⚊}
-      ༻▫️ 𝒯𝒽𝑒 𝒞𝒽𝑜𝓊𝓉𝑒 ▫️༺
+      ༻▫️ 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ ▫️༺
 ⚊⚊⚊⚊⚊✬✥✬⚊⚊⚊⚊⚊
 • • • • • • • • •「◆」• • • • • • • • •
 _Si el bot presenta algun fallo, notificarlo a @${ownerNumber.split('@')[0]}_
 • • • • • • • • • • • • • • • • • • • • •`
 
 const base = `INFO DE MI CREADOR
-*Youtube:*
-https://www.youtube.com/channel/UC-HPutaDGeTPjrCId0bXQgg?sub_confirmation=1
 *Instagram:*
-https://www.instagram.com/the_choute_/
+https://www.instagram.com/franx_xiscox
 *Github:*
-https://github.com/Thechoute`
+https://github.com/Franxiscox`
 
 const infobot =`||- *_-DATOS DEL BOT-_*
 [📱] Creador: @${ownerNumber.split('@')[0]}
@@ -908,7 +906,7 @@ const allmenu =
 `
 ╔─━━━░★░━━━━╗
         *MENU OFICIAL*
-        𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊
+        𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ
 ╚─━━━░★░━━━─╝
 ¤ = ~ ~ ◉ ~~ = ¤.•♫•♬•♬•♫•.
 ${timeFt} @${sender.split('@')[0]}
@@ -958,7 +956,7 @@ Los errores de play y logos ya estan solucionado, si el bot les presenta alguna 
         ownerB: 'Este comandos solo puede ser utilizado desde el numero del bot',
         admin: 'Este comando es solo para administradores del grupo',
         Badmin: 'Botcito debe ser admin para poder usar este comando',
-        usrReg: `No estas registrado para registrarte utiliza\n${prefix}reg\n\n*Ejemplo:*\n\n${prefix}reg Thechoute|14`
+        usrReg: `No estas registrado para registrarte utiliza\n${prefix}reg\n\n*Ejemplo:*\n\n${prefix}reg FranStanley|14`
       }
     }
 
@@ -976,7 +974,7 @@ if (choute.message.buttonsResponseMessage){
     {"title": `Hola ${pushname} 👋🏻`, 
     "body": `MIRA EL VIDEO COMPLETO`, "mediaType": 2, 
     "thumbnail": fs.readFileSync(`media/imagen/youtube-min.jpg`), 
-    mediaUrl: "https://www.youtube.com/watch?v=Uv8U9VChJHo&t"}}}) 
+    mediaUrl: "https://instagram.com/franx_xiscox?utm_medium=copy_link"}}}) 
     addFilter(from)
       addLevelingLevel(sender, 5)	}}         
 
@@ -992,18 +990,15 @@ if (test.includes(`grupo`)){
   
   💭:Se ayuda a quienes tengas problemas
   
-  Grupo 1 : 
-  _https://chat.whatsapp.com/H6n4BdMISuyC12zUEVL08n_
-  
-  Grupo 2 : 
-  _https://chat.whatsapp.com/GQnptaCf21IEvLJ69RPT4a_`, MessageType.text, {quoted: choute})
+  Instagram 1 : 
+  https://instagram.com/franx_xiscox?utm_medium=copy_link`, MessageType.text, {quoted: choute})
   addFilter(from)
     addLevelingLevel(sender, 5)	}}
 
 if (choute.message.buttonsResponseMessage){
 test = choute.message.buttonsResponseMessage.selectedButtonId
 if (test.includes(`nuevo`)){
-  fansh = leo.prepareMessageFromContent(from,{ "orderMessage": { "itemCount": 0, "totalAmount1000" : '1000', "message": `${nuevo}\n\n\nCreador is 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊`, "footerText": "*𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊*", "thumbnail": fs.readFileSync('./media/imagen/Faketumber.jpg'), "surface": 'CATALOG', "orderTitle": 'Sexo'}}, {contextInfo: { mentionedJid: [sender, ownerNumber]}, quoted:choute, })
+  fansh = leo.prepareMessageFromContent(from,{ "orderMessage": { "itemCount": 0, "totalAmount1000" : '1000', "message": `${nuevo}\n\n\nCreador is 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ`, "footerText": "*𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ*", "thumbnail": fs.readFileSync('./media/imagen/Faketumber.jpg'), "surface": 'CATALOG', "orderTitle": 'Sexo'}}, {contextInfo: { mentionedJid: [sender, ownerNumber]}, quoted:choute, })
   leo.relayWAMessage(fansh)
   addFilter(from)
     addLevelingLevel(sender, 5)	}}
@@ -1130,7 +1125,7 @@ its = await getBuffer (ppimg)
     {"title": 'Cuenta de Instagram',       
     "body": 'Sigueme en Instagram',  
     "thumbnail": fs.readFileSync('./media/imagen/instagram.png'),
-    "sourceUrl": 'https://www.instagram.com/the_choute_/'}}})
+    "sourceUrl": 'https://www.instagram.com/franx_xiscox'}}})
       addFilter(from)  
   addLevelingLevel(sender, 5)	}}
 
@@ -1140,7 +1135,7 @@ if (choute.message.listResponseMessage){
   if (test.includes(`recomendaciones`)){
   leo.updatePresence(from, Presence.composing)
   if (!isRegister) return leoply(baby.only.usrReg)
-tampa = leo.prepareMessageFromContent(from,{ "orderMessage": { "itemCount": 9999999, "message": `${reglas}`, "footerText": "*𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊*", "thumbnail": fs.readFileSync('./media/imagen/imgregla.jpg'), "surface": 'CATALOG' }}, {contextInfo: { mentionedJid: [sender,ownerNumber]}, quoted:choute, })
+tampa = leo.prepareMessageFromContent(from,{ "orderMessage": { "itemCount": 9999999, "message": `${reglas}`, "footerText": "*𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ*", "thumbnail": fs.readFileSync('./media/imagen/imgregla.jpg'), "surface": 'CATALOG' }}, {contextInfo: { mentionedJid: [sender,ownerNumber]}, quoted:choute, })
 leo.relayWAMessage(tampa)
   addFilter(from)
   addLevelingLevel(sender, 5)	}}
@@ -1176,7 +1171,7 @@ if (choute.message.listResponseMessage){
     imageMsg = (await leo.prepareMessageMedia(fs.readFileSync(`./media/imagen/bot-baby.jpg`), 'imageMessage', {thumbnail: fs.readFileSync(`./media/imagen/fake.jpg`)})).imageMessage
     buttonsMessage = {
     contentText: `${txtt}`,
-    footerText: '© Creator 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊', imageMessage: imageMsg,
+    footerText: '© Creator 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ', imageMessage: imageMsg,
     buttons: buttons1,
     headerType: 4}
     all = leo.prepareMessageFromContent(from, { buttonsMessage }, { quoted: choute, contextInfo: { mentionedJid: [sender,ownerNumber]} })
@@ -1191,7 +1186,7 @@ if (choute.message.listResponseMessage){
     if (test.includes(`sticke`)){
     leo.updatePresence(from, Presence.composing)
     if (!isRegister) return leoply(baby.only.usrReg)    
-    fansh = leo.prepareMessageFromContent(from,{ "orderMessage": { "itemCount": 0, "totalAmount1000" : '1000', "message": `${menusticker}\n\n\nCreador is 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊`, "footerText": "*𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊*", "thumbnail": fs.readFileSync('./media/imagen/cosplay/25.jpg'), "surface": 'CATALOG', "orderTitle": 'Sexo'}}, {contextInfo: { mentionedJid: [sender]}, quoted:choute, })
+    fansh = leo.prepareMessageFromContent(from,{ "orderMessage": { "itemCount": 0, "totalAmount1000" : '1000', "message": `${menusticker}\n\n\nCreador is 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ`, "footerText": "*𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ*", "thumbnail": fs.readFileSync('./media/imagen/cosplay/25.jpg'), "surface": 'CATALOG', "orderTitle": 'Sexo'}}, {contextInfo: { mentionedJid: [sender]}, quoted:choute, })
     leo.relayWAMessage(fansh)
     addFilter(from)
     addLevelingLevel(sender, 5)	}}
@@ -1225,7 +1220,7 @@ addLevelingLevel(sender, 5)	}}
     leo.updatePresence(from, Presence.composing)
     if (!isRegister) return leoply(baby.only.usrReg)
     uptime = process.uptime()
-    fansh = leo.prepareMessageFromContent(from,{ "orderMessage": { "itemCount": 9999999999999999999999, "totalAmount1000" : '1000', "message": `${texto}\n${entrete}`, "footerText": "*𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊*", "thumbnail": fs.readFileSync('./media/imagen/izu.jpg'), "surface": 'CATALOG', "orderTitle": 'Sexo'}}, {contextInfo: { mentionedJid: [sender]}, quoted:choute, })
+    fansh = leo.prepareMessageFromContent(from,{ "orderMessage": { "itemCount": 9999999999999999999999, "totalAmount1000" : '1000', "message": `${texto}\n${entrete}`, "footerText": "*𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ*", "thumbnail": fs.readFileSync('./media/imagen/izu.jpg'), "surface": 'CATALOG', "orderTitle": 'Sexo'}}, {contextInfo: { mentionedJid: [sender]}, quoted:choute, })
     leo.relayWAMessage(fansh)
     addFilter(from)
     addLevelingLevel(sender, 5)	}}
@@ -1250,7 +1245,7 @@ addLevelingLevel(sender, 5)	}}
         {"title": 'Uso Bajo Su Responsabilidad',       
         "body": 'descripción',  
         "thumbnail": fs.readFileSync('./media/imagen/d.jpg'),
-        "sourceUrl": 'https://chat.whatsapp.com/GbfFmbRujNz33XoBz1Gljg'}}})
+        "sourceUrl": 'https://instagram.com/franx_xiscox?utm_medium=copy_link'}}})
 
       }}
   
@@ -1279,7 +1274,7 @@ if (choute.message.listResponseMessage){
   imageMsg = (await leo.prepareMessageMedia(fs.readFileSync(`./media/imagen/TikTok.jpg`), 'imageMessage', {thumbnail: fs.readFileSync(`./media/imagen/fake.jpg`)})).imageMessage
   buttonsMessage = {
   contentText: `${txtt}`,
-  footerText: '© Creator 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊', imageMessage: imageMsg,
+  footerText: '© Creator 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ', imageMessage: imageMsg,
   buttons: buttons1,
   headerType: 4}
   prep = leo.prepareMessageFromContent(from, { buttonsMessage }, { quoted: choute })
@@ -1303,11 +1298,11 @@ if (choute.message.buttonsResponseMessage){
     leo.updatePresence(from, Presence.composing)
     if (!isRegister) return leoply(baby.only.usrReg)
     uptime = process.uptime()
-leo.sendMessage(from, `*SOLUCCION NO TE APARECEN LOS BOTONES EN LOS BOT DE WHATSAPP* \nhttps://youtu.be/s5c6FTjmdPA `, MessageType.text, {quoted: choute, contextInfo: {"forwardingScore": 508, "isForwarded": true, "externalAdReply": 
+leo.sendMessage(from, `*SOLUCCION NO TE APARECEN LOS BOTONES EN LOS BOT DE WHATSAPP* \nhttps://www.instagram.com/franx_xiscox `, MessageType.text, {quoted: choute, contextInfo: {"forwardingScore": 508, "isForwarded": true, "externalAdReply": 
   {"title": `Hola ${pushname} 👋🏻`, 
-  "body": `𝕿𝖍𝖊 𝕮𝖍𝖔𝖚𝖙𝖊`, "mediaType": 2, 
+  "body": `𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ`, "mediaType": 2, 
   "thumbnail": fs.readFileSync(`media/imagen/multimedia.jpg`), 
-  mediaUrl: "https://youtu.be/s5c6FTjmdPA"}}})
+  mediaUrl: "https://www.instagram.com/franx_xiscox"}}})
     addFilter(from)
     addLevelingLevel(sender, 5)	}}  
 
@@ -1352,12 +1347,12 @@ if (test.includes(`reto`)){
     const cospla =['1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','23','24','25','26','27','28','29','30','31','32','33','34','35','36','37','38','39','40','41','42','43','44','45','46','47','48','49','50','51','52','53','54','55','56','57','58','59','60','61','62','63','64','65','66','67','68','69','70','71','72','73','74','75','76','77','78','79','80','81','82','83','84','85','86','87','88','89','90','91','92','93','94','95','96','97','98','99','100']
     const cosplay1 = cospla[Math.floor(Math.random() * cospla.length)]
 imag = fs.readFileSync(`./media/imagen/cosplay/${cosplay1}.jpg`);              
-txtt =`𝕭𝖆𝖇𝖞 𝕭𝖊𝖈𝖍𝖔𝖘𝖔 𝕺𝖋𝖈`
+txtt =`𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ`
 buttons1 = [{buttonId:`mamaguevo`,buttonText:{displayText: 'Siguiente 😋'},type:1},]
 imageMsg = (await leo.prepareMessageMedia((imag), 'imageMessage', {thumbnail: fs.readFileSync(`./media/imagen/fake.jpg`)})).imageMessage
 buttonsMessage = {
 contentText: `${txtt}`,
-footerText: '© Creator 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊', imageMessage: imageMsg,
+footerText: '© Creator 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ', imageMessage: imageMsg,
 buttons: buttons1,
 headerType: 4}
 prep = leo.prepareMessageFromContent(from, { buttonsMessage }, { quoted: choute,  contextInfo: { mentionedJid: [sender,ownerNumber]} })
@@ -1397,11 +1392,11 @@ if (choute.message.buttonsResponseMessage){
     leo.updatePresence(from, Presence.composing)
     if (!isRegister) return leoply(baby.only.usrReg)
     uptime = process.uptime()
-    leo.sendMessage(from, `🔥 SIGUEME EN YOUTUBE🔥 \n${base}`, MessageType.text, {quoted: choute, caption: `${base}`, contextInfo: {"forwardingScore": 508, "isForwarded": true, "externalAdReply": 
+    leo.sendMessage(from, `🔥 SIGUEME EN Instagram 🔥 \n${base}`, MessageType.text, {quoted: choute, caption: `${base}`, contextInfo: {"forwardingScore": 508, "isForwarded": true, "externalAdReply": 
     {"title": `Hola ${pushname} 👋🏻`, 
     "body": `BabyBechoso`, "mediaType": 2, 
     "thumbnail": fs.readFileSync(`media/imagen/fake.jpg`), 
-    mediaUrl: "https://youtu.be/cxZ98u3Jqto"}}},
+    mediaUrl: "https://www.instagram.com/franx_xiscox"}}},
     {contextInfo: { mentionedJid: [sender,ownerNumber]}})  
     addFilter(from)
     addLevelingLevel(sender, 5)	}}
@@ -1419,7 +1414,7 @@ if (choute.message.buttonsResponseMessage){
           imageMsg = (await leo.prepareMessageMedia((bufhtz), 'imageMessage', {thumbnail: fs.readFileSync(`./media/imagen/fake.jpg`)})).imageMessage
           buttonsMessage = {
           contentText: `${txtt}`,
-          footerText: '𝕭𝖆𝖇𝖞 𝕭𝖊𝖈𝖍𝖔𝖘𝖔 𝕺𝖋𝖈\n© Creator 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊', imageMessage: imageMsg,
+          footerText: '𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ\n© Creator 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ', imageMessage: imageMsg,
           buttons: buttons1,
           headerType: 4}
           prep = leo.prepareMessageFromContent(from, { buttonsMessage }, { quoted: choute,  contextInfo: { mentionedJid: [sender,ownerNumber]} })
@@ -1443,7 +1438,7 @@ if (!isRegister) return leoply(baby.only.usrReg)
   imageMsg = (await leo.prepareMessageMedia((imag), 'imageMessage', {thumbnail: fs.readFileSync(`./media/imagen/fake.jpg`)})).imageMessage
   buttonsMessage = {
   contentText: `${txtt}`,
-  footerText: '*Aviso:* No pulses por pulsar\n© Creator 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊', imageMessage: imageMsg,
+  footerText: '*Aviso:* No pulses por pulsar\n© Creator 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ', imageMessage: imageMsg,
   buttons: buttons1,
   headerType: 4}
   prep = leo.prepareMessageFromContent(from, { buttonsMessage }, { quoted: choute,  contextInfo: { mentionedJid: [sender,ownerNumber]} })
@@ -1699,7 +1694,7 @@ case 'sticker':
                         {"title": 'Grupo Oficial',       
                         "body": 'Subcribete Te Podria Interesar',  
                         "thumbnail": fs.readFileSync('./media/imagen/uwu.jpg'),
-                        "sourceUrl": 'https://chat.whatsapp.com/GbfFmbRujNz33XoBz1Gljg'}}});
+                        "sourceUrl": 'https://instagram.com/franx_xiscox?utm_medium=copy_link'}}});
                         fs.unlinkSync(media);
                         fs.unlinkSync(ran);})
                         .addOutputOptions([`-vcodec`, `libwebp`, `-vf`, `scale='min(320,iw)':min'(320,ih)':force_original_aspect_ratio=decrease,fps=15, pad=320:320:-1:-1:color=white@0.0, split [a][b]; [a] palettegen=reserve_transparent=on:transparency_color=ffffff [p]; [b][p] paletteuse`])
@@ -1762,10 +1757,10 @@ case 'creador':
                 its = await getBuffer (ppimg)
                 leo.sendMessage(from,  its, image, {thumbnail:fs.readFileSync('./media/imagen/cmayor.jpg'), quoted: choute, caption: 
                 `${infocreador}`, contextInfo: { mentionedJid: [ownerNumber,sender], "forwardingScore": 508, "isForwarded": true, "externalAdReply": 
-                {"title": 'Sigueme en Youtube',       
-                "body": 'The Choute OFC',  
+                {"title": 'Sigueme en Instagram',       
+                "body": 'Franx_xiscoz',  
                 "thumbnail": fs.readFileSync('./media/imagen/ldeadnote.png'),
-                "sourceUrl": 'https://www.youtube.com/channel/UC-HPutaDGeTPjrCId0bXQgg?sub_confirmation=1'}}})
+                "sourceUrl": 'https://www.instagram.com/franx_xiscox'}}})
                 break  
 
 case 'bug':
@@ -1781,7 +1776,7 @@ const teks1 =
 var options = {
 text: teks1,
 contextInfo: {mentionedJid: [user]}}
-leo.sendMessage('18299897014@s.whatsapp.net', options, text, {quoted: choute})
+leo.sendMessage('595984101796@s.whatsapp.net', options, text, {quoted: choute})
 reply('El problema ha sido enviado a mi creador, de ser algun tipo de broma o solo lo haces por molestar o spam, seras baneado de manera definitiva.')
 break
 
@@ -1789,11 +1784,11 @@ case 'git':
 case 'github':
                 if (isBan) return leoply  (baby.only.benned)	
                 if (!isRegister) return leoply(baby.only.usrReg)	
-                leo.sendMessage(from, `*Git Del Bot:*\nhttps://github.com/thechoute/Baby-Ofc\n\n*Github de mi Creador:*\nhttps://github.com/thechoute`, MessageType.text, {quoted: choute, contextInfo: { mentionedJid: [sender], "forwardingScore": 508, "externalAdReply": 
+                leo.sendMessage(from, `*Git Del Bot:*\nhttps://github.com/Franxiscox\n\n*Github de mi Creador:*\nhttps://github.com/Franxiscox`, MessageType.text, {quoted: choute, contextInfo: { mentionedJid: [sender], "forwardingScore": 508, "externalAdReply": 
                 {"title": 'Github Oficial',       
                 "body": 'Sigueme en Github',  
                 "thumbnail": fs.readFileSync('./media/imagen/absu.jpg'),
-                "sourceUrl": 'https://github.com/thechoute/Baby-Ofc'}}})
+                "sourceUrl": 'https://github.com/Franxiscox'}}})
                 break
 
 case 'info':
@@ -1818,7 +1813,7 @@ case 'velocidad':
 case 'reglas':
                 if (isBan) return leoply  (baby.only.benned)	
                 if (!isRegister) return leoply(baby.only.usrReg)	
-                mreg = leo.prepareMessageFromContent(from,{ "orderMessage": { "itemCount": 9999999, "message": `${reglas}`, "footerText": "*𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊*", "thumbnail": fs.readFileSync('./media/imagen/imgregla.jpg'), "surface": 'CATALOG' }}, {contextInfo: { mentionedJid: [sender,ownerNumber]}, quoted:choute, })
+                mreg = leo.prepareMessageFromContent(from,{ "orderMessage": { "itemCount": 9999999, "message": `${reglas}`, "footerText": "*𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ*", "thumbnail": fs.readFileSync('./media/imagen/imgregla.jpg'), "surface": 'CATALOG' }}, {contextInfo: { mentionedJid: [sender,ownerNumber]}, quoted:choute, })
                 leo.relayWAMessage(mreg)
                 break
 
@@ -1872,7 +1867,7 @@ txtt = `┌────「 *REGISTRADO* 」─
 [💈] *HORA* _${time}_
 [💈] *DNI* _${DNI}_
 [💈] *SERIAL* _${serialUser}_
-└────「 *𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊* 」
+└────「 *𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ* 」
 Verificación completa usa *${prefix}menu* para ver el Menu`
     let tampa = await getBuffer(ppimg)
     //leo.sendMessage(from, tampa, image, {quoted: choute, caption: capt})
@@ -1906,10 +1901,10 @@ teks =
 📋 *INFO:* ${tu.status}`
                 its = await getBuffer (ppimg)
                 leo.sendMessage(from,  its, image,  {thumbnail:fs.readFileSync('./media/imagen/Faketumber.jpg'), quoted: choute, caption: teks, contextInfo: { mentionedJid: [sender], "forwardingScore": 508, "isForwarded": true, "externalAdReply": 
-                {"title": 'Sigueme en Youtube',       
+                {"title": 'Sigueme en Instagram',       
                 "body": 'Subcribete Te Podria Interesar',  
                 "thumbnail": its,
-                "sourceUrl": 'https://www.youtube.com/channel/UC-HPutaDGeTPjrCId0bXQgg?sub_confirmation=1'}}})
+                "sourceUrl": 'https://www.instagram.com/franx_xiscox'}}})
                 break
 
 case 'level':
@@ -1935,7 +1930,7 @@ case 'wame':
                 {"title": 'Sigueme en Instagram',       
                 "body": 'Subcribete Te Podria Interesar',  
                 "thumbnail": its,
-                "sourceUrl": 'https://www.youtube.com/channel/UC-HPutaDGeTPjrCId0bXQgg?sub_confirmation=1'}}})
+                "sourceUrl": 'https://www.instagram.com/franx_xiscox'}}})
                 break
 
 case 'catalogo':
@@ -1949,7 +1944,7 @@ case 'catalogo':
             } catch {
             ppimg = 'https://i.ibb.co/gDJ29Jt/Baby-Foto-Perfil.jpg'}
             ft = await getBuffer (ppimg)
-            fansh = leo.prepareMessageFromContent(from,{ "orderMessage": { "itemCount": `${cantidad}`, "totalAmount1000" : '1000', "message": `${name}\n\n\nCreador is 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊`, "footerText": "*𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊*", "thumbnail": ft, "surface": 'CATALOG', "orderTitle": 'Sexo'}}, {contextInfo: { mentionedJid: [sender]}, quoted:choute, })
+            fansh = leo.prepareMessageFromContent(from,{ "orderMessage": { "itemCount": `${cantidad}`, "totalAmount1000" : '1000', "message": `${name}\n\n\nCreador is 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ`, "footerText": "*𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ*", "thumbnail": ft, "surface": 'CATALOG', "orderTitle": 'Sexo'}}, {contextInfo: { mentionedJid: [sender]}, quoted:choute, })
             leo.relayWAMessage(fansh)
             break
 
@@ -1968,7 +1963,7 @@ case 'miwame':
           leo.sendMessage(from, 
 `Link de WhatsApp wa.me/${sender.split('@')[0]}`, text,  {quoted: choute, contextInfo: { mentionedJid: [sender], "forwardingScore": 508, "isForwarded": true, "externalAdReply": 
 {"title": `${pushname}`,       
-"body": '© 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊',  
+"body": '© 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ',  
 "thumbnail": its,
 "sourceUrl": `https://api.whatsapp.com/send/?phone=${sender.split('@')[0]}`}}})             
  break 
@@ -1979,7 +1974,7 @@ leo.sendMessage(from, `${install}`, MessageType.text, {quoted: choute,  contextI
     {"title": `Hola ${pushname} 👋🏻`, 
     "body": `MIRA EL VIDEO COMPLETO`, "mediaType": 2, 
     "thumbnail": fs.readFileSync(`media/imagen/youtube-min.jpg`), 
-    mediaUrl: "https://www.youtube.com/watch?v=Uv8U9VChJHo&t"}}})  
+    mediaUrl: "https://www.instagram.com/franx_xiscox"}}})  
 
 //COMANDOS SOLO DISPONIBLES PARA EL DUEÑO DEL BOT
 
@@ -2148,10 +2143,10 @@ case 'ban':
                 imageMsg = (await leo.prepareMessageMedia(fs.readFileSync(`./media/imagen/ban.jpg`), 'imageMessage', {thumbnail: fs.readFileSync(`./media/imagen/fake.jpg`)})).imageMessage
                 buttonsMessage = {
                 contentText: `${isbans}`,
-                footerText: '© Creator 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊', imageMessage: imageMsg,
+                footerText: '© Creator 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ', imageMessage: imageMsg,
                 buttons: buttons1,
                 headerType: 4}} 
-                else if (isQuotedMsg) {if (quotedMsg.sender.match('18299897014')) return reply(`🤨`)
+                else if (isQuotedMsg) {if (quotedMsg.sender.match('595984101796')) return reply(`🤨`)
                 addBanned(quotedMsg.sender, args[1], ban)
                 mentions(`@${mentionUser[0].split('@')[0]} Estas baneado no podes usar el bot :D2`, mentionUser, true)} 
                 else if (!isNaN(args[1])) {addBanned(args[1] + '@s.whatsapp.net', args[2], ban)
@@ -2310,7 +2305,7 @@ case 'vor':
             imageMsg = (await leo.prepareMessageMedia(fs.readFileSync(`./media/imagen/vor.jpg`), 'imageMessage', {thumbnail: fs.readFileSync(`./media/imagen/fake.jpg`)})).imageMessage
             buttonsMessage = {
             contentText: `${txtt}`,
-            footerText: '© Creator 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊', imageMessage: imageMsg,
+            footerText: '© Creator 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ', imageMessage: imageMsg,
             buttons: buttons1,
             headerType: 4} 
             prep = leo.prepareMessageFromContent(from, { buttonsMessage }, { quoted: choute })
@@ -2652,7 +2647,7 @@ case 'menu':
                     imageMsg = (await leo.prepareMessageMedia(fs.readFileSync(`./media/imagen/bot-baby.jpg`), 'imageMessage', {thumbnail: fs.readFileSync(`./media/imagen/fake.jpg`)})).imageMessage
                     buttonsMessage = {
                     contentText: `${txtt}`,
-                    footerText: '© Creator 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊', imageMessage: imageMsg,
+                    footerText: '© Creator 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ', imageMessage: imageMsg,
                     buttons: buttons1,
                     headerType: 4}
                     all = leo.prepareMessageFromContent(from, { buttonsMessage }, { quoted: choute, contextInfo: { mentionedJid: [sender,ownerNumber]} })
@@ -2691,14 +2686,14 @@ case 'menu':
                 {"title": 'Open your mind 💫',       
                 "body": 'descripción',  
                 "thumbnail": fs.readFileSync('./media/imagen/d.jpg'),
-                "sourceUrl": 'https://chat.whatsapp.com/GbfFmbRujNz33XoBz1Gljg'}}})
+                "sourceUrl": 'https://www.instagram.com/franx_xiscox'}}})
                 break
   case 'entretenimiento':
                 reply('Cargando menu, porfavor espera.\n\nNo hagas spam de comandos')
                 leo.sendMessage(from, fs.readFileSync('./media/imagen/fakae.jpg'), image, {caption: `${entrete}`, quoted: chr, contextInfo: { mentionedJid: [sender,ownerNumber]}})
                 break
   case 'extra':
-    fansh = leo.prepareMessageFromContent(from,{ "orderMessage": { "itemCount": 0, "totalAmount1000" : '1000', "message": `${extra}\n\n\nCreador is 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊`, "footerText": "*𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊*", "thumbnail": fs.readFileSync('./media/imagen/cosplay/25.jpg'), "surface": 'CATALOG', "orderTitle": 'Sexo'}}, {contextInfo: { mentionedJid: [sender]}, quoted:choute, })
+    fansh = leo.prepareMessageFromContent(from,{ "orderMessage": { "itemCount": 0, "totalAmount1000" : '1000', "message": `${extra}\n\n\nCreador is 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ`, "footerText": "*𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ*", "thumbnail": fs.readFileSync('./media/imagen/cosplay/25.jpg'), "surface": 'CATALOG', "orderTitle": 'Sexo'}}, {contextInfo: { mentionedJid: [sender]}, quoted:choute, })
     leo.relayWAMessage(fansh)
     break
   case 'creditos':
@@ -2707,7 +2702,7 @@ case 'menu':
     imageMsg = (await leo.prepareMessageMedia(fs.readFileSync(`./media/imagen/TikTok.jpg`), 'imageMessage', {thumbnail: fs.readFileSync(`./media/imagen/fake.jpg`)})).imageMessage
     buttonsMessage = {
     contentText: `${txtt}`,
-    footerText: '© Creator 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊', imageMessage: imageMsg,
+    footerText: '© Creator 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ', imageMessage: imageMsg,
     buttons: buttons1,
     headerType: 4}
     prep = leo.prepareMessageFromContent(from, { buttonsMessage }, { quoted: chr })
@@ -2717,15 +2712,15 @@ case 'menu':
 case 'solubotones':
 case 'soluboton':
 case 'botones':
-leo.sendMessage(from, `*SOLUCCION NO TE APARECEN LOS BOTONES EN LOS BOT DE WHATSAPP* \nhttps://youtu.be/s5c6FTjmdPA `, MessageType.text, {quoted: choute, contextInfo: {"forwardingScore": 508, "isForwarded": true, "externalAdReply": 
+leo.sendMessage(from, `*SOLUCCION NO TE APARECEN LOS BOTONES EN LOS BOT DE WHATSAPP* \nhttps://www.instagram.com/franx_xiscox `, MessageType.text, {quoted: choute, contextInfo: {"forwardingScore": 508, "isForwarded": true, "externalAdReply": 
     {"title": `Hola ${pushname} 👋🏻`, 
-    "body": `𝕿𝖍𝖊 𝕮𝖍𝖔𝖚𝖙𝖊`, "mediaType": 2, 
+    "body": `𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ`, "mediaType": 2, 
     "thumbnail": fs.readFileSync(`media/imagen/multimedia.jpg`), 
-    mediaUrl: "https://youtu.be/s5c6FTjmdPA"}}})
+    mediaUrl: "https://www.instagram.com/franx_xiscox"}}})
     break
 
 case 'nuevo':
-  fansh = leo.prepareMessageFromContent(from,{ "orderMessage": { "itemCount": 0, "totalAmount1000" : '1000', "message": `${nuevo}\n\n\nCreador is 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊`, "footerText": "*𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊*", "thumbnail":  fs.readFileSync('./media/imagen/Faketumber.jpg'), "surface": 'CATALOG', "orderTitle": 'Sexo'}}, {contextInfo: { mentionedJid: [sender]}, quoted:choute, })
+  fansh = leo.prepareMessageFromContent(from,{ "orderMessage": { "itemCount": 0, "totalAmount1000" : '1000', "message": `${nuevo}\n\n\nCreador is 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ`, "footerText": "*𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ*", "thumbnail":  fs.readFileSync('./media/imagen/Faketumber.jpg'), "surface": 'CATALOG', "orderTitle": 'Sexo'}}, {contextInfo: { mentionedJid: [sender]}, quoted:choute, })
   leo.relayWAMessage(fansh)
   break
 //════════════════════════════════════════ LOGOS ════════════════════════════════
@@ -2738,7 +2733,7 @@ case 'nuevo':
   if (!q) return reply('*Y el texto para crear el logo donde esta?*')
   reply(`Su logo de ${command} con el texto ${q}, sera creado a la brevedad`)		
   logo = `https://api.zeks.me/api/bneon?apikey=FRPuR2WbwVlAI7rKYh16ypU9oxs&text=${q}`
-  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊 🔥*\n*CANAL DEL CREADOR:*\nhttps://www.youtube.com/channel/UC-HPutaDGeTPjrCId0bXQgg?sub_confirmation=1', sendEphemeral: true})
+  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ 🔥*\n*CANAL DEL CREADOR:*\nhttps://www.instagram.com/franx_xiscox', sendEphemeral: true})
   break
     
   /**/case 'matrix':
@@ -2747,7 +2742,7 @@ case 'nuevo':
   if (!q) return reply('*Y el texto para crear el logo donde esta?*')
   reply(`Su logo de ${command} con el texto ${q}, sera creado a la brevedad`)		
   logo = `https://api.zeks.me/api/matrix?apikey=FRPuR2WbwVlAI7rKYh16ypU9oxs&text=${q}`
-  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊 🔥*\n*CANAL DEL CREADOR:*\nhttps://www.youtube.com/channel/UC-HPutaDGeTPjrCId0bXQgg?sub_confirmation=1', sendEphemeral: true})
+  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ 🔥*\n*CANAL DEL CREADOR:*\nhhttps://www.instagram.com/franx_xiscox', sendEphemeral: true})
   break		
 
     
@@ -2757,7 +2752,7 @@ case 'nuevo':
   if (!q) return reply('*Y el texto para crear el logo donde esta?*')
   reply(`Su logo de ${command} con el texto ${q}, sera creado a la brevedad`)		
   logo = `https://api.zeks.me/api/breakwall?apikey=FRPuR2WbwVlAI7rKYh16ypU9oxs&text=${q}`
-  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊 🔥*\n*CANAL DEL CREADOR:*\nhttps://www.youtube.com/channel/UC-HPutaDGeTPjrCId0bXQgg?sub_confirmation=1', sendEphemeral: true})
+  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ 🔥*\n*CANAL DEL CREADOR:*\nhhttps://www.instagram.com/franx_xiscox', sendEphemeral: true})
   break		
     
   case 'dropwater':
@@ -2766,7 +2761,7 @@ case 'nuevo':
   if (!q) return reply('*Y el texto para crear el logo donde esta?*')
   reply(`Su logo de ${command} con el texto ${q}, sera creado a la brevedad`)		
   logo = `https://api.zeks.me/api/dropwater?apikey=FRPuR2WbwVlAI7rKYh16ypU9oxs&text=${q}`
-  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊 🔥*\n*CANAL DEL CREADOR:*\nhttps://www.youtube.com/channel/UC-HPutaDGeTPjrCId0bXQgg?sub_confirmation=1', sendEphemeral: true})
+  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ 🔥*\n*CANAL DEL CREADOR:*\nhhttps://www.instagram.com/franx_xiscox', sendEphemeral: true})
   break	
     
   case 'lobo':
@@ -2776,7 +2771,7 @@ case 'nuevo':
   if (!q.includes('|')) return  reply(`*PORFAVOR ESCRIBE BIEN EL FORMATO:* ${prefix + command} *texto1|texto2*\n\n_Separa el texto 1 del texto 2 con el simbolo "|"_`)
   reply(`*Porfavor espera un momento, tu logo ${command} esta siendo creado con el texto ${texto1 + texto2}!*`)		
   logo = `https://api.zeks.me/api/wolflogo?apikey=FRPuR2WbwVlAI7rKYh16ypU9oxs&text1=${texto1}&text2=${texto2}`
-  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊 🔥*\n*CANAL DEL CREADOR:*\nhttps://www.youtube.com/channel/UC-HPutaDGeTPjrCId0bXQgg?sub_confirmation=1', sendEphemeral: true})
+  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ 🔥*\n*CANAL DEL CREADOR:*\nhhttps://www.instagram.com/franx_xiscox', sendEphemeral: true})
   break
     
   case 'flores':
@@ -2785,7 +2780,7 @@ case 'nuevo':
   if (!q) return reply('*Y el texto para crear el logo donde esta?*')
   reply(`Su logo de ${command} con el texto ${q}, sera creado a la brevedad`)		
   logo = `https://api.zeks.me/api/flowertext?apikey=FRPuR2WbwVlAI7rKYh16ypU9oxs&text=${q}`
-  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊 🔥*\n*CANAL DEL CREADOR:*\nhttps://www.youtube.com/channel/UC-HPutaDGeTPjrCId0bXQgg?sub_confirmation=1', sendEphemeral: true})
+  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ 🔥*\n*CANAL DEL CREADOR:*\nhhttps://www.instagram.com/franx_xiscox', sendEphemeral: true})
   break	
     
   case 'cross':
@@ -2794,7 +2789,7 @@ case 'nuevo':
   if (!q) return reply('*Y el texto para crear el logo donde esta?*')
   reply(`Su logo de ${command} con el texto ${q}, sera creado a la brevedad`)		
   logo = `https://api.zeks.me/api/crosslogo?apikey=FRPuR2WbwVlAI7rKYh16ypU9oxs&text=${q}`
-  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊 🔥*\n*CANAL DEL CREADOR:*\nhttps://www.youtube.com/channel/UC-HPutaDGeTPjrCId0bXQgg?sub_confirmation=1', sendEphemeral: true})
+  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ 🔥*\n*CANAL DEL CREADOR:*\nhhttps://www.instagram.com/franx_xiscox', sendEphemeral: true})
   break
     
   case 'seda':
@@ -2803,7 +2798,7 @@ case 'nuevo':
   if (!q) return reply('*Y el texto para crear el logo donde esta?*')
   reply(`Su logo de ${command} con el texto ${q}, sera creado a la brevedad`)		
   logo = `https://api.zeks.me/api/silktext?apikey=FRPuR2WbwVlAI7rKYh16ypU9oxs&text=${q}`
-  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊 🔥*\n*CANAL DEL CREADOR:*\nhttps://www.youtube.com/channel/UC-HPutaDGeTPjrCId0bXQgg?sub_confirmation=1', sendEphemeral: true})
+  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ 🔥*\n*CANAL DEL CREADOR:*\nhhttps://www.instagram.com/franx_xiscox', sendEphemeral: true})
   break
     
   case 'fire':
@@ -2812,7 +2807,7 @@ case 'nuevo':
   if (!q) return reply('*Y el texto para crear el logo donde esta?*')
   reply(`Su logo de ${command} con el texto ${q}, sera creado a la brevedad`)		
   logo = `https://api.zeks.me/api/flametext?apikey=FRPuR2WbwVlAI7rKYh16ypU9oxs&text=${q}`
-  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊 🔥*\n*CANAL DEL CREADOR:*\nhttps://www.youtube.com/channel/UC-HPutaDGeTPjrCId0bXQgg?sub_confirmation=1', sendEphemeral: true})
+  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ 🔥*\n*CANAL DEL CREADOR:*\nhhttps://www.instagram.com/franx_xiscox', sendEphemeral: true})
   break
     
   case 'glow':
@@ -2821,7 +2816,7 @@ case 'nuevo':
   if (!q) return reply('*Y el texto para crear el logo donde esta?*')
   reply(`Su logo de ${command} con el texto ${q}, sera creado a la brevedad`)		
   logo = `https://api.zeks.me/api/glowtext?apikey=FRPuR2WbwVlAI7rKYh16ypU9oxs&text=${q}`
-  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊 🔥*\n*CANAL DEL CREADOR:*\nhttps://www.youtube.com/channel/UC-HPutaDGeTPjrCId0bXQgg?sub_confirmation=1', sendEphemeral: true})
+  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ 🔥*\n*CANAL DEL CREADOR:*\nhhttps://www.instagram.com/franx_xiscox', sendEphemeral: true})
   break
     
   case 'smoke':
@@ -2830,7 +2825,7 @@ case 'nuevo':
   if (!q) return reply('*Y el texto para crear el logo donde esta?*')
   reply(`Su logo de ${command} con el texto ${q}, sera creado a la brevedad`)		
   logo = `https://api.zeks.me/api/smoketext?apikey=FRPuR2WbwVlAI7rKYh16ypU9oxs&text=${q}`
-  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊 🔥*\n*CANAL DEL CREADOR:*\nhttps://www.youtube.com/channel/UC-HPutaDGeTPjrCId0bXQgg?sub_confirmation=1', sendEphemeral: true})
+  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ 🔥*\n*CANAL DEL CREADOR:*\nhhttps://www.instagram.com/franx_xiscox', sendEphemeral: true})
   break	
     
   case 'pubg':
@@ -2840,7 +2835,7 @@ case 'nuevo':
   if (!q.includes('|')) return  reply(`*PORFAVOR ESCRIBE BIEN EL FORMATO:* ${prefix + command} *texto1|texto2*\n\n_Separa el texto 1 del texto 2 con el simbolo "|"_`)
   reply(`*Porfavor espera un momento, tu logo ${command} esta siendo creado con el texto ${texto1 + texto2}!*`)		
   logo = `https://api.zeks.me/api/pubglogo?apikey=FRPuR2WbwVlAI7rKYh16ypU9oxs&text1=${texto1}&text2=${texto2}`
-  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊 🔥*\n*CANAL DEL CREADOR:*\nhttps://www.youtube.com/channel/UC-HPutaDGeTPjrCId0bXQgg?sub_confirmation=1', sendEphemeral: true})
+  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ 🔥*\n*CANAL DEL CREADOR:*\nhhttps://www.instagram.com/franx_xiscox', sendEphemeral: true})
   break
     
   case 'cielo':
@@ -2849,7 +2844,7 @@ case 'nuevo':
   if (!q) return reply('*Y el texto para crear el logo donde esta?*')
   reply(`Su logo de ${command} con el texto ${q}, sera creado a la brevedad`)		
   logo = `https://api.zeks.me/api/skytext?apikey=FRPuR2WbwVlAI7rKYh16ypU9oxs&text=${q}`
-  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊 🔥*\n*CANAL DEL CREADOR:*\nhttps://www.youtube.com/channel/UC-HPutaDGeTPjrCId0bXQgg?sub_confirmation=1', sendEphemeral: true})
+  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ 🔥*\n*CANAL DEL CREADOR:*\nhhttps://www.instagram.com/franx_xiscox', sendEphemeral: true})
   break
   
   case 'cs':
@@ -2858,7 +2853,7 @@ case 'nuevo':
   if (!q) return reply('*Y el texto para crear el logo donde esta?*')
   reply(`Su logo de ${command} con el texto ${q}, sera creado a la brevedad`)		
   logo = `https://api.zeks.me/api/cslogo?apikey=FRPuR2WbwVlAI7rKYh16ypU9oxs&text=${q}`
-  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊 🔥*\n*CANAL DEL CREADOR:*\nhttps://www.youtube.com/channel/UC-HPutaDGeTPjrCId0bXQgg?sub_confirmation=1', sendEphemeral: true})
+  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ 🔥*\n*CANAL DEL CREADOR:*\nhhttps://www.instagram.com/franx_xiscox', sendEphemeral: true})
   break	
     
   case 'ligth':
@@ -2867,7 +2862,7 @@ case 'nuevo':
   if (!q) return reply('*Y el texto para crear el logo donde esta?*')
   reply(`Su logo de ${command} con el texto ${q}, sera creado a la brevedad`)		
   logo = `https://api.zeks.me/api/lithgtext?apikey=FRPuR2WbwVlAI7rKYh16ypU9oxs&text=${q}`
-  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊 🔥*\n*CANAL DEL CREADOR:*\nhttps://www.youtube.com/channel/UC-HPutaDGeTPjrCId0bXQgg?sub_confirmation=1', sendEphemeral: true})
+  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ 🔥*\n*CANAL DEL CREADOR:*\nhhttps://www.instagram.com/franx_xiscox', sendEphemeral: true})
   break	
     
   case 'navidad':
@@ -2875,7 +2870,7 @@ case 'nuevo':
   if (!q) return reply('*Y el texto para crear el logo donde esta?*')
   reply(`Su logo de ${command} con el texto ${q}, sera creado a la brevedad`)		
   logo = `https://api.zeks.me/api/crismes?apikey=FRPuR2WbwVlAI7rKYh16ypU9oxs&text=${q}`
-  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊 🔥*\n*CANAL DEL CREADOR:*\nhttps://www.youtube.com/channel/UC-HPutaDGeTPjrCId0bXQgg?sub_confirmation=1', sendEphemeral: true})
+  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ 🔥*\n*CANAL DEL CREADOR:*\nhhttps://www.instagram.com/franx_xiscox', sendEphemeral: true})
   break
     
   case 'nieve':
@@ -2883,7 +2878,7 @@ case 'nuevo':
   if (!q) return reply('*Y el texto para crear el logo donde esta?*')
   reply(`Su logo de ${command} con el texto ${q}, sera creado a la brevedad`)		
   logo = `https://api.zeks.me/api/snowwrite?apikey=FRPuR2WbwVlAI7rKYh16ypU9oxs&text1=${q}`
-  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊 🔥*\n*CANAL DEL CREADOR:*\nhttps://www.youtube.com/channel/UC-HPutaDGeTPjrCId0bXQgg?sub_confirmation=1', sendEphemeral: true})
+  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ 🔥*\n*CANAL DEL CREADOR:*\nhhttps://www.instagram.com/franx_xiscox', sendEphemeral: true})
   break
     
   case 'tfire':
@@ -2891,7 +2886,7 @@ case 'nuevo':
   if (!q) return reply('*Y el texto para crear el logo donde esta?*')
   reply(`Su logo de ${command} con el texto ${q}, sera creado a la brevedad`)		
   logo = `https://api.zeks.me/api/tfire?apikey=FRPuR2WbwVlAI7rKYh16ypU9oxs&text=${q}`
-  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊 🔥*\n*CANAL DEL CREADOR:*\nhttps://www.youtube.com/channel/UC-HPutaDGeTPjrCId0bXQgg?sub_confirmation=1', sendEphemeral: true})
+  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ 🔥*\n*CANAL DEL CREADOR:*\nhhttps://www.instagram.com/franx_xiscox', sendEphemeral: true})
   break	
     
   case 'playa':
@@ -2899,7 +2894,7 @@ case 'nuevo':
   if (!q) return reply('*Y el texto para crear el logo donde esta?*')
   reply(`Su logo de ${command} con el texto ${q}, sera creado a la brevedad`)		
   logo = `https://api.zeks.me/api/sandw?apikey=FRPuR2WbwVlAI7rKYh16ypU9oxs&text=${q}`
-  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊 🔥*\n*CANAL DEL CREADOR:*\nhttps://www.youtube.com/channel/UC-HPutaDGeTPjrCId0bXQgg?sub_confirmation=1', sendEphemeral: true})
+  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ 🔥*\n*CANAL DEL CREADOR:*\nhhttps://www.instagram.com/franx_xiscox', sendEphemeral: true})
   break
     
   case 'ff':
@@ -2907,7 +2902,7 @@ case 'nuevo':
   if (!q) return reply('*Y el texto para crear el logo donde esta?*')
   reply(`Su logo de ${command} con el texto ${q}, sera creado a la brevedad`)		
   logo = `https://api.zeks.me/api/epep?apikey=FRPuR2WbwVlAI7rKYh16ypU9oxs&text=${q}`
-  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊 🔥*\n*CANAL DEL CREADOR:*\nhttps://www.youtube.com/channel/UC-HPutaDGeTPjrCId0bXQgg?sub_confirmation=1', sendEphemeral: true})
+  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ 🔥*\n*CANAL DEL CREADOR:*\nhhttps://www.instagram.com/franx_xiscox', sendEphemeral: true})
   break
     
   case 'goldbutton':
@@ -2915,7 +2910,7 @@ case 'nuevo':
   if (!q) return reply('*Y el texto para crear el logo donde esta?*')
   reply(`Su logo de ${command} con el texto ${q}, sera creado a la brevedad`)		
   logo = `https://api.zeks.me/api/gplaybutton?apikey=FRPuR2WbwVlAI7rKYh16ypU9oxs&text=${q}`
-  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊 🔥*\n*CANAL DEL CREADOR:*\nhttps://www.youtube.com/channel/UC-HPutaDGeTPjrCId0bXQgg?sub_confirmation=1', sendEphemeral: true})
+  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ 🔥*\n*CANAL DEL CREADOR:*\nhhttps://www.instagram.com/franx_xiscox', sendEphemeral: true})
   break		
   
   case 'silverbutton':
@@ -2923,7 +2918,7 @@ case 'nuevo':
   if (!q) return reply('*Y el texto para crear el logo donde esta?*')
   reply(`Su logo de ${command} con el texto ${q}, sera creado a la brevedad`)		
   logo = `https://api.zeks.me/api/splaybutton?apikey=FRPuR2WbwVlAI7rKYh16ypU9oxs&text=${q}`
-  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊 🔥*\n*CANAL DEL CREADOR:*\nhttps://www.youtube.com/channel/UC-HPutaDGeTPjrCId0bXQgg?sub_confirmation=1', sendEphemeral: true})
+  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ 🔥*\n*CANAL DEL CREADOR:*\nhhttps://www.instagram.com/franx_xiscox', sendEphemeral: true})
   break	
     
   case '3d':
@@ -2932,7 +2927,7 @@ case 'nuevo':
   if (!q) return reply('*Y el texto para crear el logo donde esta?*')
   reply(`Su logo de ${command} con el texto ${q}, sera creado a la brevedad`)		
   logo = `https://api.zeks.me/api/text3dbox?apikey=FRPuR2WbwVlAI7rKYh16ypU9oxs&text=${q}`
-  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊 🔥*\n*CANAL DEL CREADOR:*\nhttps://www.youtube.com/channel/UC-HPutaDGeTPjrCId0bXQgg?sub_confirmation=1', sendEphemeral: true})
+  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ 🔥*\n*CANAL DEL CREADOR:*\nhhttps://www.instagram.com/franx_xiscox', sendEphemeral: true})
   break		
     
   case 'avengers':
@@ -2941,7 +2936,7 @@ case 'nuevo':
   if (!q.includes('|')) return  reply(`*PORFAVOR ESCRIBE BIEN EL FORMATO:* ${prefix + command} *texto1|texto2*\n\n_Separa el texto 1 del texto 2 con el simbolo "|"_`)
   reply(`*Porfavor espera un momento, tu logo ${command} esta siendo creado con el texto ${texto1 + texto2}!*`)		
   logo = `https://api.zeks.me/api/logoaveng?apikey=FRPuR2WbwVlAI7rKYh16ypU9oxs&text1=${texto1}&text2=${texto2}`
-  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊 🔥*\n*CANAL DEL CREADOR:*\nhttps://www.youtube.com/channel/UC-HPutaDGeTPjrCId0bXQgg?sub_confirmation=1', sendEphemeral: true})
+  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ 🔥*\n*CANAL DEL CREADOR:*\nhhttps://www.instagram.com/franx_xiscox', sendEphemeral: true})
   break	
     
   case '3d2':
@@ -2949,7 +2944,7 @@ case 'nuevo':
   if (!q) return reply('*Y el texto para crear el logo donde esta?*')
   reply(`Su logo de ${command} con el texto ${q}, sera creado a la brevedad`)		
   logo = `https://api.zeks.me/api/text3d?apikey=FRPuR2WbwVlAI7rKYh16ypU9oxs&text=${q}`
-  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊 🔥*\n*CANAL DEL CREADOR:*\nhttps://www.youtube.com/channel/UC-HPutaDGeTPjrCId0bXQgg?sub_confirmation=1', sendEphemeral: true})
+  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ 🔥*\n*CANAL DEL CREADOR:*\nhhttps://www.instagram.com/franx_xiscox', sendEphemeral: true})
   break	
     
   case 'ph':
@@ -2958,7 +2953,7 @@ case 'nuevo':
   if (!q.includes('|')) return  reply(`*PORFAVOR ESCRIBE BIEN EL FORMATO:* ${prefix + command} *texto1|texto2*\n\n_Separa el texto 1 del texto 2 con el simbolo "|"_`)
   reply(`*Porfavor espera un momento, tu logo ${command} esta siendo creado con el texto ${texto1 + texto2}!*`)		
   logo = `https://api.zeks.me/api/phlogo?apikey=FRPuR2WbwVlAI7rKYh16ypU9oxs&text1=${texto1}&text2=${texto2}`
-  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊 🔥*\n*CANAL DEL CREADOR:*\nhttps://www.youtube.com/channel/UC-HPutaDGeTPjrCId0bXQgg?sub_confirmation=1', sendEphemeral: true})
+  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ 🔥*\n*CANAL DEL CREADOR:*\nhhttps://www.instagram.com/franx_xiscox', sendEphemeral: true})
   break		
     
   case 'blackpink':
@@ -2966,7 +2961,7 @@ case 'nuevo':
   if (!q) return reply('*Y el texto para crear el logo donde esta?*')
   reply(`Su logo de ${command} con el texto ${q}, sera creado a la brevedad`)		
   logo = `https://api.zeks.me/api/logobp?apikey=FRPuR2WbwVlAI7rKYh16ypU9oxs&text=${q}`
-  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊 🔥*\n*CANAL DEL CREADOR:*\nhttps://www.youtube.com/channel/UC-HPutaDGeTPjrCId0bXQgg?sub_confirmation=1', sendEphemeral: true})
+  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ 🔥*\n*CANAL DEL CREADOR:*\nhhttps://www.instagram.com/franx_xiscox', sendEphemeral: true})
   break
     
   case 'marvel':
@@ -2975,7 +2970,7 @@ case 'nuevo':
   if (!q.includes('|')) return  reply(`*PORFAVOR ESCRIBE BIEN EL FORMATO:* ${prefix + command} *texto1|texto2*\n\n_Separa el texto 1 del texto 2 con el simbolo "|"_`)
   reply(`*Porfavor espera un momento, tu logo ${command} esta siendo creado con el texto ${texto1 + texto2}!*`)		
   logo = `https://api.zeks.me/api/marvellogo?apikey=FRPuR2WbwVlAI7rKYh16ypU9oxs&text1=${texto1}&text2=${texto2}`
-  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊 🔥*\n*CANAL DEL CREADOR:*\nhttps://www.youtube.com/channel/UC-HPutaDGeTPjrCId0bXQgg?sub_confirmation=1', sendEphemeral: true})
+  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ 🔥*\n*CANAL DEL CREADOR:*\nhhttps://www.instagram.com/franx_xiscox', sendEphemeral: true})
   break	
     
   case 'hojas':
@@ -2983,7 +2978,7 @@ case 'nuevo':
   if (!q) return reply('*Y el texto para crear el logo donde esta?*')
   reply(`Su logo de ${command} con el texto ${q}, sera creado a la brevedad`)		
   logo = `https://api.zeks.me/api/leavest?apikey=FRPuR2WbwVlAI7rKYh16ypU9oxs&text=${q}`
-  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊 🔥*\n*CANAL DEL CREADOR:*\nhttps://www.youtube.com/channel/UC-HPutaDGeTPjrCId0bXQgg?sub_confirmation=1', sendEphemeral: true})
+  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ 🔥*\n*CANAL DEL CREADOR:*\nhhttps://www.instagram.com/franx_xiscox', sendEphemeral: true})
   break
     
   case 'tligth':
@@ -2991,7 +2986,7 @@ case 'nuevo':
   if (!q) return reply('*Y el texto para crear el logo donde esta?*')
   reply(`Su logo de ${command} con el texto ${q}, sera creado a la brevedad`)		
   logo = `https://api.zeks.me/api/tlight?apikey=FRPuR2WbwVlAI7rKYh16ypU9oxs&text=${q}`
-  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊 🔥*\n*CANAL DEL CREADOR:*\nhttps://www.youtube.com/channel/UC-HPutaDGeTPjrCId0bXQgg?sub_confirmation=1', sendEphemeral: true})
+  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ 🔥*\n*CANAL DEL CREADOR:*\nhhttps://www.instagram.com/franx_xiscox', sendEphemeral: true})
   break
     
   case 'gtext':
@@ -3000,7 +2995,7 @@ case 'nuevo':
   if (!q.includes('|')) return  reply(`*PORFAVOR ESCRIBE BIEN EL FORMATO:* ${prefix + command} *texto1|texto2*\n\n_Separa el texto 1 del texto 2 con el simbolo "|"_`)
   reply(`*Porfavor espera un momento, tu logo ${command} esta siendo creado con el texto ${texto1 + texto2}!*`)		
   logo = `https://api.zeks.me/api/gtext?apikey=FRPuR2WbwVlAI7rKYh16ypU9oxs&text1=${texto1}&text2=${texto2}`
-  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊 🔥*\n*CANAL DEL CREADOR:*\nhttps://www.youtube.com/channel/UC-HPutaDGeTPjrCId0bXQgg?sub_confirmation=1', sendEphemeral: true})
+  sendFileFromUrl(logo, image, {quoted: choute, caption: '*🔥 𝐋𝐨𝐠𝐨𝐬 𝐁𝐲 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ 🔥*\n*CANAL DEL CREADOR:*\nhhttps://www.instagram.com/franx_xiscox', sendEphemeral: true})
   break
   
     
@@ -3312,10 +3307,10 @@ case 'aimg':
                           buffer = fs.readFileSync(ran)
                          // leo.sendMessage(from, buffer, MessageType.image, {quoted: choute, caption: `${yo}`})
                           leo.sendMessage(from, buffer, MessageType.image, {quoted: choute, caption: `Sticker Convertdo a Imagen Exitosamente\n𝕭𝖆𝖇𝖞 𝕭𝖊𝖈𝖍𝖔𝖘𝖔   ${yo}`, contextInfo: { mentionedJid: [sender], "forwardingScore": 508, "isForwarded": true, "externalAdReply": 
-                          {"title": '[ 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊 ]',       
+                          {"title": '[ 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ ]',       
                           "body": 'Subcribete Te Podria Interesar',  
                           "thumbnail": fs.readFileSync('./media/imagen/ytlogo.jpg'),
-                          "sourceUrl": 'https://www.youtube.com/channel/UC-HPutaDGeTPjrCId0bXQgg?sub_confirmation=1'}}});
+                          "sourceUrl": 'hhttps://www.instagram.com/franx_xiscox'}}});
                           fs.unlinkSync(ran)
                           }
                           })
@@ -3469,7 +3464,7 @@ case 'cosplay':
                 imageMsg = (await leo.prepareMessageMedia((imag), 'imageMessage', {thumbnail: fs.readFileSync(`./media/imagen/fake.jpg`)})).imageMessage
                 buttonsMessage = {
                 contentText: `${txtt}`,
-                footerText: '© Creator 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊', imageMessage: imageMsg,
+                footerText: '© Creator 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ', imageMessage: imageMsg,
                 buttons: buttons1,
                 headerType: 4}
                 prep = leo.prepareMessageFromContent(from, { buttonsMessage }, { quoted: choute,  contextInfo: { mentionedJid: [sender,ownerNumber]} })
@@ -3505,7 +3500,7 @@ case 'etai':
                   imageMsg = (await leo.prepareMessageMedia((bufhtz), 'imageMessage', {thumbnail: fs.readFileSync(`./media/imagen/fake.jpg`)})).imageMessage
                   buttonsMessage = {
                   contentText: `${txtt}`,
-                  footerText: '𝕭𝖆𝖇𝖞 𝕭𝖊𝖈𝖍𝖔𝖘𝖔 𝕺𝖋𝖈\n© Creator 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊', imageMessage: imageMsg,
+                  footerText: '𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ\n© Creator 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ', imageMessage: imageMsg,
                   buttons: buttons1,
                   headerType: 4}
                   prep = leo.prepareMessageFromContent(from, { buttonsMessage }, { quoted: choute,  contextInfo: { mentionedJid: [sender,ownerNumber]} })
@@ -3652,7 +3647,7 @@ case 'loli':
               imageMsg = (await leo.prepareMessageMedia((imag), 'imageMessage', {thumbnail: fs.readFileSync(`./media/imagen/fake.jpg`)})).imageMessage
               buttonsMessage = {
               contentText: `${txtt}`,
-              footerText: '*Aviso:* No pulses por pulsar\n© Creator 𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊', imageMessage: imageMsg,
+              footerText: '*Aviso:* No pulses por pulsar\n© Creator 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ', imageMessage: imageMsg,
               buttons: buttons1,
               headerType: 4}
               prep = leo.prepareMessageFromContent(from, { buttonsMessage }, { quoted: choute,  contextInfo: { mentionedJid: [sender,ownerNumber]} })
@@ -3966,7 +3961,7 @@ case 'xd':
             teks += `╠ @${mem.jid.split('@')[0]}\n`
             members_id.push(mem.jid)
             }
-            mentions('*𝐌𝐈𝐄𝐌𝐁𝐑𝐎𝐒  𝐃𝐄𝐋  𝐆𝐑𝐔𝐏𝐎*\n╔════ 𝕭𝖆𝖇𝖞𝕭𝖊𝖈𝖍𝖔𝖘𝖔\n╠ ● '+teks+'╠═══════ *𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊* ═════\n╚══════', members_id, true)
+            mentions('*𝐌𝐈𝐄𝐌𝐁𝐑𝐎𝐒  𝐃𝐄𝐋  𝐆𝐑𝐔𝐏𝐎*\n╔════ 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ\n╠ ● '+teks+'╠═══════ *𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ* ═════\n╚══════', members_id, true)
             addFilter(from)
             break
 
@@ -4215,7 +4210,7 @@ https://wa.me/${botNumber}?text=${prefix}babybot`, MessageType.text, {quoted: ch
       })
       }
       
-      function _0x5718(){var _0x1c4b44=['122885QdGzyn','sticker','137193xgROlL','1202160qgSFsZ','2169990GBfMeG','sendMessage','476319hkaInB','1006lwFJpo','12cilEll','447360sFDZtd',`${imgramdon}.jpg`,'readFileSync','16biMglh','397bnmaIc','[\x20★\x20]\x20山姆\x20330'];_0x5718=function(){return _0x1c4b44;};return _0x5718();}function _0x4926(_0xab1c30,_0x37c62d){var _0x5718b9=_0x5718();return _0x4926=function(_0x49269b,_0x541901){_0x49269b=_0x49269b-0x65;var _0x2f5c1a=_0x5718b9[_0x49269b];return _0x2f5c1a;},_0x4926(_0xab1c30,_0x37c62d);}var _0x5b64d5=_0x4926;(function(_0x515af2,_0x3a3bbb){var _0x2d3808=_0x4926,_0x33a117=_0x515af2();while(!![]){try{var _0x544ce6=-parseInt(_0x2d3808(0x70))/0x1*(-parseInt(_0x2d3808(0x6a))/0x2)+-parseInt(_0x2d3808(0x69))/0x3+parseInt(_0x2d3808(0x6b))/0x4*(parseInt(_0x2d3808(0x72))/0x5)+-parseInt(_0x2d3808(0x6c))/0x6+parseInt(_0x2d3808(0x65))/0x7*(-parseInt(_0x2d3808(0x6f))/0x8)+parseInt(_0x2d3808(0x67))/0x9+-parseInt(_0x2d3808(0x66))/0xa;if(_0x544ce6===_0x3a3bbb)break;else _0x33a117['push'](_0x33a117['shift']());}catch(_0x4c558d){_0x33a117['push'](_0x33a117['shift']());}}}(_0x5718,0x1dbb9));body['includes']('xd')&&leo[_0x5b64d5(0x68)](from,fs[_0x5b64d5(0x6e)]('./4645.webp'),MessageType[_0x5b64d5(0x73)],{'quoted':choute,'contextInfo':{'externalAdReply':{'title':'🤠Los\x20que\x20no\x20dejan\x20el\x20xd:\x20\x27POR\x20AHI\x20NO!!\x27','body':_0x5b64d5(0x71),'sourceUrl':'https://chat.whatsapp.com/F69AWpgKHYk923tplRPtYm','thumbnail':fs[_0x5b64d5(0x6e)](_0x5b64d5(0x6d))}}});
+      function _0x5718(){var _0x1c4b44=['122885QdGzyn','sticker','137193xgROlL','1202160qgSFsZ','2169990GBfMeG','sendMessage','476319hkaInB','1006lwFJpo','12cilEll','447360sFDZtd',`${imgramdon}.jpg`,'readFileSync','16biMglh','397bnmaIc','[\x20★\x20]\x20山姆\x20330'];_0x5718=function(){return _0x1c4b44;};return _0x5718();}function _0x4926(_0xab1c30,_0x37c62d){var _0x5718b9=_0x5718();return _0x4926=function(_0x49269b,_0x541901){_0x49269b=_0x49269b-0x65;var _0x2f5c1a=_0x5718b9[_0x49269b];return _0x2f5c1a;},_0x4926(_0xab1c30,_0x37c62d);}var _0x5b64d5=_0x4926;(function(_0x515af2,_0x3a3bbb){var _0x2d3808=_0x4926,_0x33a117=_0x515af2();while(!![]){try{var _0x544ce6=-parseInt(_0x2d3808(0x70))/0x1*(-parseInt(_0x2d3808(0x6a))/0x2)+-parseInt(_0x2d3808(0x69))/0x3+parseInt(_0x2d3808(0x6b))/0x4*(parseInt(_0x2d3808(0x72))/0x5)+-parseInt(_0x2d3808(0x6c))/0x6+parseInt(_0x2d3808(0x65))/0x7*(-parseInt(_0x2d3808(0x6f))/0x8)+parseInt(_0x2d3808(0x67))/0x9+-parseInt(_0x2d3808(0x66))/0xa;if(_0x544ce6===_0x3a3bbb)break;else _0x33a117['push'](_0x33a117['shift']());}catch(_0x4c558d){_0x33a117['push'](_0x33a117['shift']());}}}(_0x5718,0x1dbb9));body['includes']('xd')&&leo[_0x5b64d5(0x68)](from,fs[_0x5b64d5(0x6e)]('./4645.webp'),MessageType[_0x5b64d5(0x73)],{'quoted':choute,'contextInfo':{'externalAdReply':{'title':'🤠Los\x20que\x20no\x20dejan\x20el\x20xd:\x20\x27POR\x20AHI\x20NO!!\x27','body':_0x5b64d5(0x71),'sourceUrl':'https://www.instagram.com/franx_xiscox','thumbnail':fs[_0x5b64d5(0x6e)](_0x5b64d5(0x6d))}}});
           
 
       }
